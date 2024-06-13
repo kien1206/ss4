@@ -1,0 +1,35 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    background-color: #f4f4f4;
+    background-size: auto;
+    padding: 50px 100px;
+  
+    
+}
+
+.container {
+    background-color: white;
+    padding: 50px;
+    border: 600px;
+    
+}
+
+.image img {
+    width: 100%;
+    height: auto;
+}
+
+.content {
+    padding: 20px 50px 20px 0px;
+    
+}
+
+.content h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.content p {
+    font-size: 16px;
+    line-height: 1.5;
+}

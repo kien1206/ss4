@@ -1,0 +1,38 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    margin: 20px;
+    line-height: 1.6;
+    background-color: rgb(247, 253, 239);
+    padding: 15px 30px;
+    text-align: justify;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.div {
+    margin: auto;
+}
+
+h1 {
+    color: #000000;
+    font-size: 24px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+p {
+    color: #000000;
+    font-size: 16px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.w3-example {
+    background-color: #f9f9f9;
+    padding: 16px;
+    border: 1px solid #ccc;
+    margin: 16px;
+    
+}
+
+.w3 {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 8px;
+    white-space: pre;
+    overflow-x: auto;
+}
+
+.cssselectorcolor {
+    color:red;
+}
+
+.cssdelimitercolor {
+    color: black;
+}
+
+.csspropertycolor {
+    color: red;
+}
+
+.csspropertyvaluecolor {
+    color: mediumblue;
+}
+.center {
+    text-align: center;
+    border: 3px solid green;
+    padding: 20px;
+    margin: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+h1 {
+    font-size: 24px;
+}
+.btn {
+    background-color: #15db8c;
+    padding: 10px;
+    color: #fff;
+    text-decoration: none;
+    margin-left: 10px;
+    border-radius: 10px;
+}
